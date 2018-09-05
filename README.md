@@ -1,3 +1,3 @@
 # casio-sketch
 Casio Cosmo Flight Sketch
-![](https://github.com/dolleebhatia/casio-sketch/CasioVectorSketch.png)
+![](https://raw.githubusercontent.com/dolleebhatia/casio-sketch/master/CasioVectorSketch.png)
